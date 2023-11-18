@@ -2,4 +2,7 @@ body {
   color: red;
   color: aqua;
   background-color: black;
+  border: 1px;
+  border-radius: 10px;
+  nav-index: inherit;
 }
